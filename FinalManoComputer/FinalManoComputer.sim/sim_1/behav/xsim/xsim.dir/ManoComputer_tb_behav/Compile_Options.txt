@@ -1,0 +1,1 @@
+-wto "39199ad45aa144edab6270a7fff75aac" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "ManoComputer_tb_behav" "xil_defaultlib.ManoComputer_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
